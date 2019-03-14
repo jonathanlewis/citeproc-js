@@ -15,7 +15,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <summary>A　style for citations when writing in Japanese following the Japan Sociological Society's style guide. It is similar to Chicago Author-Date style, and this CSL is based on the Chicago Author-Date CSL.</summary>
+    <summary>A　style for citations when writing in Japanese following the Japan Sociological Society's style guide. It is similar to Chicago Author-Date style, and this CSL is based on the Chicago Author-Date CSL.  NB Sort order in bibliography is for works in all languages to be sorted in ascending order of first authors' family names in roman characters.</summary>
     <updated>2014-04-30T13:19:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

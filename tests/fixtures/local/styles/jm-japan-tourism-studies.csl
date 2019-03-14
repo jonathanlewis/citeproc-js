@@ -3,12 +3,22 @@
       class="note"
       version="1.0">
   <info>
-    <title>Test fixture</title>
+    <title>観光学評論 (author-date, Japanese)</title>
     <id>http://citationstyles.org/tests/fixture</id>
     <link href="http://citationstyles.org/tests/fixture" rel="self"/>
     <link href="http://citationstyles.org/documentation/text" rel="documentation"/>
+    <author>
+      <name>Jonathan Lewis (Hitotsubashi University)</name>
+      <email>jonathan_lewis@mac.com</email>
+    </author>
+    <contributor>
+      <name>Frank Bennett</name>
+      <email>biercenator@gmail.com</email>
+    </contributor>
     <category citation-format="author-date"/>
-    <updated>2014-04-30T13:19:38+00:00</updated>
+    <category field="sociology"/>
+    <summary>A　style for citations when writing in Japanese following the Japan Society for Tourism Studies' style guide. English citation follows APA style, Japanese citations are adapted somewhat. NB Sort order in bibliography is for works in all languages to be sorted in ascending order of first authors' family names in roman characters.</summary>
+    <updated>2019-03-14T13:19:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
