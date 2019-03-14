@@ -3,7 +3,7 @@ citation
 <<===== MODE =====<<
 
 >>===== RESULT =====>>
->>[0] Aalto; Álvarez
+>>[0] (Aalto, 2000; Álvarez, 2010)
 <<===== RESULT =====<<
 
 >>===== CITATIONS =====>>
@@ -43,6 +43,9 @@ jm-japan-tourism-studies.csl
                 "given": "Alan"
             }
         ], 
+        "issued": {
+			"date-parts": [[2000]]
+		},
         "id": "ITEM-1", 
         "type": "book"
     }, 
@@ -53,6 +56,9 @@ jm-japan-tourism-studies.csl
                 "given": "Ajax" 
             }
         ], 
+        "issued": {
+			"date-parts": [[2010]]
+		},
         "id": "ITEM-2", 
         "type": "book"
     }
